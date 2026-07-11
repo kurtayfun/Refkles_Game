@@ -2,7 +2,7 @@
 
 Mobil dikey ekranlar için tasarlanmış, tek dosyalık bir HTML5 refleks/reaksiyon oyunu. Kurulum yok, derleme yok — dosyayı açtığın an oynanır.
 
-**[▶ Oyna](https://Kurtayfun.github.io/Refleks_Game/index.html)**
+**[▶ Oyna](https://Kurtayfun.github.io/Refleks/index.html)**
 
 > Yukarıdaki linki GitHub Pages'te yayına aldıktan sonra kendi kullanıcı adın ve repo adınla güncelle.
 
